@@ -1,0 +1,8 @@
+Install extension - from VSIX file
+
+openssl s_client -host www.google.com -port 443
+
+openssl s_client -host cdnjs.cloudflare.com -port 443
+
+ Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
